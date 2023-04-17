@@ -1,0 +1,18 @@
+  nav{
+    background-color: rgb(30, 134, 70);
+    height: 50px;
+  }
+  nav a{
+    color: white;
+    font-size: 20px;
+  }
+  nav a i{
+    font-size: 20px;
+  }
+ 
+  .nav{
+    margin-left: 3pc; 
+  }
+  .nav-item{
+    margin-left: 2pc;
+  }
